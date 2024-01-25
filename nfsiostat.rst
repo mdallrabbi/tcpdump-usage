@@ -27,4 +27,3 @@ This is the duration from the time that client's kernel sends the RPC request un
 
 * avg exe (ms)
 This is the duration from the time that NFS client does the RPC request to its kernel until the RPC request is completed, this includes the RTT time above.
-
